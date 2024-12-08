@@ -7,5 +7,5 @@ Creates a batch file on your autostartup directory and cleans the DX Cache so yo
 
 ## Screenshots
 
-![App Screenshot](https://imgur.com/a/tJ4tlue)
+![App Screenshot](https://i.imgur.com/vDOeNsJ.png)
 
