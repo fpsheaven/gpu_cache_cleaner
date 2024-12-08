@@ -1,7 +1,7 @@
 
 # GPU Cache Cleaner
 
-Creates a batch file on your autostartup directory and cleans the DX Cache so you do not have to.
+Creates a batch file on your autostartup directory based on your GPU Model and cleans the DX Cache so you do not have to.
 
 
 
